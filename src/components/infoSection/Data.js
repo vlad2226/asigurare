@@ -1,0 +1,51 @@
+export const homeObjOne = {
+  id: "reviews",
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: "Mii de clienți satisfăcuți și sute de recenzii pozitive",
+  headLine: "Vizitați pagina noastră de Facebook pentru recenzii și articole",
+  description:
+    "Oferim asistență și ghidare pentru a obține o asigurare la cel mai bun preț",
+  buttonLabel: "300+ Recenzii",
+  imgStart: false,
+  img: require("../../images/Facebook.svg").default,
+  alt: "Success",
+  dark: true,
+  primary: true,
+  darkText: false,
+};
+// export const homeObjTwo = {
+//   id: "faq",
+//   lightBg: true,
+//   lightText: false,
+//   lightTextDesc: false,
+//   topLine: "Cum obțin o estimare pentru o asigurare? ",
+//   headLine: "Completați formularul",
+//   description:
+//     "Pentru a fluidiza procesul de ofertare si emitere a poliței, vă rugăm să ne oferiți datele necesare",
+//   buttonLabel: "Formular asigurare",
+//   imgStart: true,
+//   img: require("../../images/IT_Support.svg").default,
+//   alt: "Online",
+//   dark: false,
+//   primary: false,
+//   darkText: true,
+// };
+// export const homeObjThree = {
+//   id: "about",
+//   lightBg: false,
+//   lightText: true,
+//   lightTextDesc: true,
+//   topLine: "Asigurare Rapida UK",
+//   headLine: "Completați formularul pentru o ofertă de asigurare",
+//   description:
+//     "Pentru a fluidiza procesul de ofertare si emitere a politei, completați formularul",
+//   buttonLabel: "Formular asigurare",
+//   imgStart: false,
+//   img: require("../../images/Formular_asigurare.svg").default,
+//   alt: "Support",
+//   dark: true,
+//   primary: true,
+//   darkText: false,
+// };
