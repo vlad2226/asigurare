@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/asigurare/static/css/main.4d467896.chunk.css",
+    "main.js": "/asigurare/static/js/main.19af1a80.chunk.js",
+    "main.js.map": "/asigurare/static/js/main.19af1a80.chunk.js.map",
+    "runtime-main.js": "/asigurare/static/js/runtime-main.ad4396ad.js",
+    "runtime-main.js.map": "/asigurare/static/js/runtime-main.ad4396ad.js.map",
+    "static/js/2.d8bff3e9.chunk.js": "/asigurare/static/js/2.d8bff3e9.chunk.js",
+    "static/js/2.d8bff3e9.chunk.js.map": "/asigurare/static/js/2.d8bff3e9.chunk.js.map",
+    "index.html": "/asigurare/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/asigurare/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.d8bff3e9.chunk.js.LICENSE.txt": "/asigurare/static/js/2.d8bff3e9.chunk.js.LICENSE.txt",
+    "static/media/Facebook.svg": "/asigurare/static/media/Facebook.eb500147.svg",
+    "static/media/Icon-1.bd65ec7b.svg": "/asigurare/static/media/Icon-1.bd65ec7b.svg",
+    "static/media/Icon-2.871d9946.svg": "/asigurare/static/media/Icon-2.871d9946.svg",
+    "static/media/Icon-3.9da9d668.svg": "/asigurare/static/media/Icon-3.9da9d668.svg",
+    "static/media/video.6f055128.mp4": "/asigurare/static/media/video.6f055128.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4396ad.js",
+    "static/js/2.d8bff3e9.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.19af1a80.chunk.js"
+  ]
+}
